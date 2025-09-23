@@ -1056,9 +1056,6 @@
   .mt-\[35px\] {
     margin-top: 35px;
   }
-  .mt-\[51px\] {
-    margin-top: 51px;
-  }
   .mt-\[100px\] {
     margin-top: 100px;
   }
@@ -1493,6 +1490,18 @@
   .h-\[85\%\] {
     height: 85%;
   }
+  .h-\[95\%\] {
+    height: 95%;
+  }
+  .h-\[97\%\] {
+    height: 97%;
+  }
+  .h-\[98\%\] {
+    height: 98%;
+  }
+  .h-\[100\%\] {
+    height: 100%;
+  }
   .h-\[calc\(100\%-1rem\)\] {
     height: calc(100% - 1rem);
   }
@@ -1801,6 +1810,9 @@
   }
   .justify-start {
     justify-content: flex-start;
+  }
+  .justify-items-end {
+    justify-items: end;
   }
   .gap-1 {
     gap: calc(var(--spacing) * 1);
@@ -2311,8 +2323,17 @@
   .pt-\[25px\] {
     padding-top: 25px;
   }
+  .pt-\[30px\] {
+    padding-top: 30px;
+  }
   .pt-\[40px\] {
     padding-top: 40px;
+  }
+  .pt-\[50px\] {
+    padding-top: 50px;
+  }
+  .pt-\[70px\] {
+    padding-top: 70px;
   }
   .pt-\[110px\] {
     padding-top: 110px;
@@ -2344,6 +2365,9 @@
     .dark .apexcharts-canvas &:not(.apexcharts-inactive-legend):hover {
       color: white !important;
     }
+  }
+  .pb-0 {
+    padding-bottom: calc(var(--spacing) * 0);
   }
   .pb-\[12px\] {
     padding-bottom: 12px;
