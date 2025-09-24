@@ -2198,6 +2198,9 @@
   .bg-\[linear-gradient\(to_right_bottom\,rgba\(23\,33\,61\,0\.8\)\,rgba\(23\,33\,61\,0\.8\)\)\,url\(\/image\/h1_hero\.png\.webp\)\] {
     background-image: linear-gradient(to right bottom,rgba(23,33,61,0.8),rgba(23,33,61,0.8)),url(/image/h1_hero.png.webp);
   }
+  .bg-\[linear-gradient\(to_right_bottom\,rgba\(23\,33\,61\,0\.8\)\,rgba\(23\,33\,61\,0\.8\)\)\,url\(image\/h1_hero\.png\.webp\)\] {
+    background-image: linear-gradient(to right bottom,rgba(23,33,61,0.8),rgba(23,33,61,0.8)),url(image/h1_hero.png.webp);
+  }
   .bg-\[linear-gradient\(to_right_bottom\,rgba\(49\,84\,44\,0\.8\)\,rgba\(16\,71\,52\,0\.8\)\)\,url\(\'\/img\/your-image\.jpg\'\)\] {
     background-image: linear-gradient(to right bottom,rgba(49,84,44,0.8),rgba(16,71,52,0.8)),url('/img/your-image.jpg');
   }
