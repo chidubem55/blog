@@ -1487,18 +1487,6 @@
   .h-\[75vh\] {
     height: 75vh;
   }
-  .h-\[85\%\] {
-    height: 85%;
-  }
-  .h-\[95\%\] {
-    height: 95%;
-  }
-  .h-\[97\%\] {
-    height: 97%;
-  }
-  .h-\[98\%\] {
-    height: 98%;
-  }
   .h-\[100\%\] {
     height: 100%;
   }
@@ -2366,9 +2354,6 @@
       color: white !important;
     }
   }
-  .pb-0 {
-    padding-bottom: calc(var(--spacing) * 0);
-  }
   .pb-\[12px\] {
     padding-bottom: 12px;
   }
@@ -2386,6 +2371,9 @@
   }
   .pl-\[10px\] {
     padding-left: 10px;
+  }
+  .pl-\[20px\] {
+    padding-left: 20px;
   }
   .pl-\[150px\] {
     padding-left: 150px;
